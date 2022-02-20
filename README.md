@@ -4,7 +4,7 @@
 
 # Tecnologias utilizadas
 
-* Python 3.8.10 
+* Python 3.8.10 (disponível em https://www.python.org/downloads/)
 * módulo re (de regular expression) do Python para utilização de expressões regulares.
 * módulo unittest do Python para testes unitários.
 
