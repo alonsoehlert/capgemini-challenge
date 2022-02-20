@@ -10,7 +10,7 @@
 
 # Instruções para execução dos códigos Python 
 
-1) Baixar todos os arquivos do projeto no Github.
+1) Baixar todos os arquivos do projeto no Github, clicando em Code > Download ZIP. Após o download, descompacte os arquivos para um diretório local qualquer.
 2) Instalar o Python na versão 3.8.10 ou superior. (Disponível em https://www.python.org/downloads/)
 3) Verificar se o Python foi instalado com sucesso: basta digitar python3 em um terminal e averiguar se o
 Python está sendo executado com sucesso.
